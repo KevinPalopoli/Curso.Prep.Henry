@@ -1,0 +1,95 @@
+/* Css para homework.html */
+
+.home {
+  background-image: url("https://i.pinimg.com/originals/55/01/ed/5501edf1c651bea1a08623a8d2999087.jpg");
+}
+
+.home h1{
+  color: #14F874;
+  text-align: center;
+  font-size: 50px;
+}
+
+.home h3 {
+  color: white;
+  text-align: center;
+  font-size: 30px;
+}
+
+.home h4 {
+  color: white;
+  text-align: center;
+  font-size: 25px;
+}
+
+.home img {
+  width: 400px;
+  height: 200px;
+  margin-top: 50px;
+  border: black 1px solid;
+}
+
+.home #ThirdDiv {
+  width: 500px;
+  height: 600px;
+  background-color: #14F874;
+  padding: 50px;
+  border: yellow 1px solid;
+  margin-top: 20px;
+}
+
+.home #spanId {
+  font-size: 18px;
+  color: white;
+}
+
+.home a {
+  color: white;
+  text-decoration: none;
+}
+
+.home div {
+  margin: auto;
+}
+
+.home ul {
+  list-style: none;
+}
+
+.home .DivClass {
+  text-align: center;
+}
+
+/* Fin de css para homework.html */
+
+/* Inicio de css para cv.html */
+
+.cv h1{
+  margin-left: 120px;
+}
+
+.cv .div1 {
+  width: 40%;
+  margin-left: 120px;
+  float: left;
+}
+
+.cv li{
+  margin-left: 40px;
+}
+
+.cv p{
+  text-decoration: underline;
+  font-weight: bolder;
+  margin-bottom: 5px;
+}
+
+.cv img{
+  width: 400px;
+  height: 450px;
+  float: right;
+  margin-right: 120px;
+  margin-top: 20px;
+}
+
+/* Fin de css para cv.html */
